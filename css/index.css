@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 10px;
+}
+
+header {
+    padding: 20px;
+    background-color: darkgrey;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+header nav ul li {
+    display: inline-block;
+    padding-left: 52px;
+}
+
+p {
+    text-align: center;
+}
+
+
+.bandera {
+    width: 200px;
+    height: 100px;
+}
+
+section img {
+    width: 700px;
+    height: 350px;
+}
+
+form label {
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+#buttom {
+    padding: 5px;
+    border-radius: 5px;
+}
